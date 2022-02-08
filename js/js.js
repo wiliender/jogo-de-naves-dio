@@ -347,6 +347,7 @@ function start() {//quando a funcao for chamada. ela ira ocultar a div inicio e 
         $("#inimigo1").remove();//remove o inimigo1
         $("#inimigo2").remove();//remove o inimigo2
         $("#amigo").remove();//remove o amigo
+        $("#energia").remove();//remove a energia
         
         $("#fundoGame").append("<div id='fim'></div>");//cria um div com id fim
         
