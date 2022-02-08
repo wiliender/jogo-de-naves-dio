@@ -2,7 +2,7 @@
 
 Nesse projeto podemos ver um jogo de naves desenvolvido com Javascript.
 
-Essas são as instruções para jogar, utilize a tecla W para movimentar o helicópetero para cima, a tecla S para movimentar o helicópetero para baixo e a tecla D para atirar, evite as coliões e faça o melhor score que conseguir.
+Essas são as instruções para jogar, utilize a tecla W para movimentar o helicópetero para cima, a tecla S para movimentar o helicópetero para baixo e a tecla D para atirar, evite as coliões salve o maximo de aliados e faça o melhor score que conseguir.
 
 <img id="programming-gif" src="imgs/jogo-naves.gif" alt="">
 
